@@ -10,7 +10,7 @@ function setClickCounts(counts) {
 document.addEventListener('DOMContentLoaded', function () {
     // Typed.js animation
     var typed = new Typed('.text', {
-        strings: ["Hey There!", "I Am... Shyam", "Frontend Developer", "Connect With Me"],
+        strings: ["Hey There!", "I Am... Shyam", "Full-Stack Developer", "Connect With Me"],
         typeSpeed: 100,
         backSpeed: 100,
         backDelay: 1000,
